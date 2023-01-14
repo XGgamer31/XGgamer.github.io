@@ -49,24 +49,24 @@
         font-family: monospace;
     }
     .smalltext3{
-      text-align: left;
+      text-align: center;
       color: #a71818;
       display: block;
       margin: 0 auto;
       font-size: 250%;
       font-family: monospace;
       margin-bottom: 5px;
-      margin-left: 24%;
+
     }
     .smalltext4{
-      text-align: left;
+      text-align: center;
       color: #a43737;
       display: block;
       margin: 0 auto;
       font-size: 250%;
       font-family: monospace;
       margin-bottom: 5px;
-      margin-left: 24%;
+
     }
     .smalltext2{
       text-align: center;
